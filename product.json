@@ -1,0 +1,144 @@
+[ 
+    {
+      "id": 1,
+      "title": "Ducati SuperSport 950",
+      "Price": [1,225.000, 1,235.000],
+      "description": "The Ducati SuperSport S is a suitable everyday two-wheeler, with its blend of comfort and versatility. Locally launched last 2018, this super sport bike has a sporty yet elegant design that’s sure to turn heads. For the Philippine market, this bike is made available with only one ABS variant.",
+      "image": "https://d29c80i09kxy2a.cloudfront.net/custom/motorcycle-model-photo/standard/ducati-supersport-s-613b4a1c779c8.webp"
+    },
+    {
+      "id": 2,
+      "title": "Ducati Panigale V4",
+      "Price": [1,990.000, 3,935.000],
+      "description": "The Ducati Panigale V4 is one of the brand’s entries to the super sport bike segment, and this model is said to pack the performance that riders of all skill levels can enjoy. It's the closest thing to the MotoGP stablemates with two variants available, namely a standard ABS and an R trim.",
+      "image": "https://d29c80i09kxy2a.cloudfront.net/custom/motorcycle-model-photo/standard/2023-ducati-panigale-v4-6408162a2f0f1.webp"
+    },
+    {
+      "id": 3,
+      "title": "Ducati Superleggera V4",
+      "Price": [7,500.000],
+      "description": "Suzuki Philippines claims that the R150 Fi is the most powerful 150cc motorcycle in the country, with the power output being inherited from the technologies the brand has developed for its bikes that competed in MotoGP. This version of the “underbone king,” as touted by the Japanese manufacturer because of its strong sales in 2019, is powered by a fuel-injected engine",
+      "Details":"At the heart of this commuter bike is a 150cc liquid-cooled, DOHC, four-valve, one cylinder engine that produces 18 hp and 14 Nm of torque. Similar to the non-fuel injected Raider R150, the mill is connected to a 6-speed manual transmission.",
+      "image": "https://d29c80i09kxy2a.cloudfront.net/custom/motorcycle-model-photo/standard/2020-ducati-superleggera-v4-philippines-5e991bd95d854.webp"
+    },
+    {
+      "id": 4,
+      "title": "Kawasaki ZX-25R",
+      "Price": 410.000,
+      "description": "The Kawasaki ZX-25R is the latest addition to the Ninja sportbike lineup following the same visual aesthetics of its bigger siblings with an aggressive riding position and Kawasaki racing livery designed to make a statement in the race track.",
+      "image": "https://d29c80i09kxy2a.cloudfront.net/custom/motorcycle-model-photo/standard/kawasaki-zx-25r-5f27fec7930b6.webp"
+    },
+    {
+      "id": 5,
+      "title": "Kawasaki Ninja ZX-10R",
+      "Price": [999,800 , 1,550.000],
+      "description": "Been proving its prowess in the motorcycle industry since 2004, the Kawasaki Ninja ZX-10R is one of the most powerful and popular Ninja members that’s ready to dominate the race tracks.",
+      "image": "https://d29c80i09kxy2a.cloudfront.net/custom/motorcycle-model-photo/standard/kawasaki-ninja-zx-10r-62e772ae8fc03.webp"
+    },
+    {
+      "id": 6,
+      "title": "Kawasaki Ninja H2 1000",
+      "Price": [1,500.000 , 1,640.000],
+      "description": "First revealed in 2014 globally, the Kawasaki Ninja H2 1000 is an action-packed, super sport bike born from the partnership of Kawasaki Heavy Industries’ Motorcycle Company, Gas and Turbine and the Aerospace Division. This powerful big bike is crafted to give riders a taste of excitement and pleasure on the road",
+      "image": "https://d29c80i09kxy2a.cloudfront.net/custom/motorcycle-model-photo/standard/2020-kawasaki-ninja-h2-side-philippines-5e55e78f34258.webp"
+    },
+    {
+      "id": 7,
+      "title": "Honda CBR500R",
+      "Price": 389.000,
+      "description": "The Honda CBR500R sports bike has the technology that complements every bit of energy that goes through its sophisticated form.",
+      "image": "https://d29c80i09kxy2a.cloudfront.net/custom/motorcycle-model-photo/standard/2022-honda-cbr500r-6243fc32c3245.webp"
+    },
+    {
+      "id": 8,
+      "title": "Honda CBR1000RR-R Fireblade SP",
+      "Price": [1,699.000],
+      "description": "Honda says that the CBR1000RR-R Fireblade SP is their fiercest creation that carries the true spirit of its MotoGP racing DNA.",
+      "image": "https://d29c80i09kxy2a.cloudfront.net/custom/motorcycle-model-photo/standard/5e14280082ae4.webp"
+    },
+    {
+      "id": 9,
+      "title": "Yamaha YZF-R7",
+      "Price": [597.000 , 617.000],
+      "description": "Yamah announced that production of the YZF-R6 would end in 2020. The well-loved R6 would continue its life as a track-only motorcycle in the European market, much to the chagrin of sportbike fans everywhere. ",
+      "image": "https://d29c80i09kxy2a.cloudfront.net/custom/motorcycle-model-photo/standard/2022-yamaha-yzf-r7-62402e9734220.webp"
+    },
+    {
+      "id": 10,
+      "title": "Yamaha YZF R1 1000",
+      "newPrice": [1,199.000],
+      "description": "Yamaha YZF R1 1000 is a sport bike which is sure to deliver ample power coupled with expensive components such as for that extraordinary riding experience.",
+      "image": "https://d29c80i09kxy2a.cloudfront.net/custom/motorcycle-model-photo/standard/5e215e2ab09be.webp"
+    },
+    {
+      "id": 11,
+      "title": "KTM RC 390",
+      "Price": 335.000,
+      "description": "The KTM RC 390 is a sports bike that delivers impressive performance and engineering.",
+      "image": "https://d29c80i09kxy2a.cloudfront.net/custom/motorcycle-model-photo/standard/2022-ktm-rc-390-63213caee8c1b.webp"
+    },
+    {
+      "id": 12,
+      "title": "KTM 1290 Super Duke GT",
+      "Price": [1,250.000],
+      "description": "The KTM 1290 Super Duke GT is a long-distance sport touring bike that’s made even better.",
+      "image": "https://d29c80i09kxy2a.cloudfront.net/custom/motorcycle-model-photo/standard/5e1c3925ce9d6.webp"
+    },
+    {
+      "id": 13,
+      "title": "KTM 1290 Super Adventure S",
+      "Price": [1,390.000],
+      "description": "The KTM 1290 Super Adventure S is one of their adventure tourers known for its unrivaled performance. Made to push the laws of physics, this bike can take on tarmac or gravel and go the distance. ",
+      "image": "https://d29c80i09kxy2a.cloudfront.net/custom/motorcycle-model-photo/standard/2020-ktm-1290-super-adventure-s-black-and-orange-philippines-5e990d3ba3b4c.webp"
+    },
+    {
+      "id": 14,
+      "title": "CFMOTO 500SR",
+      "Price": 383.900,
+      "description": "The CFMOTO 500SR Voom is a dynamic mid-weight sport bike that merges powerful performance with head-turning aesthetics, positioned for riders who want an accessible yet spirited machine for both city streets and winding roads",
+      "image": "https://d29c80i09kxy2a.cloudfront.net/custom/motorcycle-model-photo/standard/cfmoto-500sr-6731a734cc6c3.webp"
+    },
+    {
+      "id": 15,
+      "title": "CFMOTO 675SR-R",
+      "Price": 438.900,
+      "description": "The CFMOTO 675SR-R is a performance-oriented sport bike designed for riders who crave power, agility, and cutting-edge technology in a mid-range package",
+      "image": "https://d29c80i09kxy2a.cloudfront.net/custom/motorcycle-model-photo/standard/cfmoto-675sr-r-6731a4fcba93d.webp"
+    },
+    {
+      "id": 16,
+      "title": "Suzuki GSX-R150",
+      "Price": 156.000,
+      "description": "The Suzuki GSX-R150 is a sport bike that has set a great feat in terms of performance for more than 30 years",
+      "image": "https://d29c80i09kxy2a.cloudfront.net/custom/motorcycle-model-photo/standard/5e1cf4ec5d6cb.webp"
+    },
+    {
+      "id": 17,
+      "title": "Suzuki Katana",
+      "Price": 817.000,
+      "description": "The Suzuki Katana is the Japanese brand's new contender in the super sport bike segment.",
+      "image": "https://d29c80i09kxy2a.cloudfront.net/custom/motorcycle-model-photo/standard/5e3d17b76ecaa.webp"
+    },
+    {
+      "id": 18,
+      "title": "Suzuki Hayabusa",
+      "Price": [1,225.000],
+      "description": "Excellent handling, superb engineering, smart aerodynamics, and a 300km/h-plus top speed—it’s no wonder that the Suzuki Hayabusa has been regarded as one of the best performance bikes in the world since 1999",
+      "image": "https://d29c80i09kxy2a.cloudfront.net/custom/motorcycle-model-photo/standard/suzuki-hayabusa-63da1f4fcc64b.webp"
+    },
+    {
+      "id": 19,
+      "title": "Bristol Invictus 400RR",
+      "Price": 278.000,
+      "description": " The Bristol Invictus 400RR is the company's first-ever sportbike in the local market. Designed and developed by Chinese manufacturer KOVE, the Invictus 400RR brings some serious performance to the beginner-friendly sportbike market.",
+      "image": "https://d29c80i09kxy2a.cloudfront.net/custom/motorcycle-model-photo/standard/bristol-invictus-400rr-63e1dafc788ba.webp"
+    },
+    {
+      "id": 20,
+      "title": "Bristol Bobber 650",
+      "Price": 398.000,
+      "description": "With classic custom cruiser styling, the Bobber 650 is Bristol's most premium and high displacement motorcycle in its arsenal to date",
+      "image": "https://d29c80i09kxy2a.cloudfront.net/custom/motorcycle-model-photo/standard/bristol-bobber-650-602317c941fe4.webp"
+    }
+    
+  ]
